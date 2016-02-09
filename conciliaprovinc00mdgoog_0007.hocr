@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./conciliaprovinc00mdgoog_0007.png"; bbox 0 0 2820 5010; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 157 1751 1392 1974">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 157 1751 1392 1974">
+     <span class='ocr_line' id='line_1_1' title="bbox 157 1751 1392 1974; baseline 0.006 -6"><span class='ocrx_word' id='word_1_1' title='bbox 157 1766 164 1777; x_wconf 72' lang='grc'><strong>’</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 481 1840 1059 1974; x_wconf 75' lang='lat' dir='ltr'><strong>coNclLlA</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1387 1751 1392 1758; x_wconf 47' lang='grc'>’</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 277 2309 1227 2463">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 277 2309 1227 2463">
+     <span class='ocr_line' id='line_1_2' title="bbox 277 2309 1227 2463; baseline -0.005 -2"><span class='ocrx_word' id='word_1_4' title='bbox 277 2309 1227 2463; x_wconf 75' lang='lat' dir='ltr'><strong>PROVINCIALIA</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 183 2812 1130 3007">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 183 2812 1130 3007">
+     <span class='ocr_line' id='line_1_3' title="bbox 183 2812 1130 3007; baseline -0.001 -75"><span class='ocrx_word' id='word_1_5' title='bbox 183 3002 187 3007; x_wconf 15' lang='grc' dir='ltr'>Ι</span> <span class='ocrx_word' id='word_1_6' title='bbox 402 2812 1130 2939; x_wconf 81' lang='lat' dir='ltr'><strong>BALTIMORENSIA.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1414 5010">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1414 5010">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1414 5010; baseline 0 0"><span class='ocrx_word' id='word_1_7' title='bbox 0 0 1414 5010; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
